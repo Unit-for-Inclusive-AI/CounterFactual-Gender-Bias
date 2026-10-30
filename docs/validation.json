@@ -1,0 +1,51 @@
+{
+  "validation_kind": "offline; no model requests",
+  "notebooks": [
+    {
+      "file": "instruction refined rag.ipynb",
+      "syntax_and_structure": "passed",
+      "original_judge_protocol_equality": true,
+      "corpus_checksum": "matched",
+      "export_paths": [
+        "raw only",
+        "complete evaluation",
+        "unresolved evaluation"
+      ],
+      "api_calls": 0,
+      "new_and_legacy_filenames": "passed",
+      "new_and_legacy_evaluation_zip_names": "passed",
+      "scorer_source_checksum": "matched"
+    },
+    {
+      "file": "table guided rag.ipynb",
+      "syntax_and_structure": "passed",
+      "original_judge_protocol_equality": true,
+      "corpus_checksum": "matched",
+      "export_paths": [
+        "raw only",
+        "complete evaluation",
+        "unresolved evaluation"
+      ],
+      "api_calls": 0,
+      "new_and_legacy_filenames": "passed",
+      "new_and_legacy_evaluation_zip_names": "passed",
+      "scorer_source_checksum": "matched"
+    },
+    {
+      "file": "kg guided rag.ipynb",
+      "syntax_and_structure": "passed",
+      "original_judge_protocol_equality": true,
+      "corpus_checksum": "matched",
+      "export_paths": [
+        "raw only",
+        "complete evaluation",
+        "unresolved evaluation"
+      ],
+      "api_calls": 0,
+      "new_and_legacy_filenames": "passed",
+      "new_and_legacy_evaluation_zip_names": "passed",
+      "scorer_source_checksum": "matched"
+    }
+  ],
+  "table_and_kg_records_and_guidance_match": true
+}

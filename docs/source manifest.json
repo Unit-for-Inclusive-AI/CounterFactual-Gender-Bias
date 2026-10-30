@@ -1,0 +1,90 @@
+[
+  {
+    "notebook": "notebooks/instruction refined rag.ipynb",
+    "source_upload": "e11-Revised instructions",
+    "source_upload_sha256": "7045b0feb1cc4e7d4a3de4c5d07993c3e2924ed3756973788f0c732ae351a608",
+    "release_sha256": "40ff02985a551c5001086dce53492b39f046309f286b6acb4a5e98cecee5013f",
+    "source_code_cell_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "generation_max_tokens": 2048,
+    "prompts_and_rubrics_unchanged": true,
+    "protected_value_sha256": {
+      "FIRST_PASS_TEMPLATE": "34da0272366f84c9539063c408c74eca22396a7ad266e15bd32bbcf315bf4a9f",
+      "COT_TEMPLATE": "d56c50aef871a8867b99ba2f2b30f502e8369463f2ae165ccc7c8e612c5daee3",
+      "GENDER_RUBRIC": "e89ec512397b5158dd8f76f5fd10024be3ac160c8f61bdc7f37e0cbeeeac034d",
+      "QUALITY_RUBRIC": "4fc2caf1d684a9dd1dd6b8e7baded81cb27ef1ccd8ec7b7aaa61c5cdef5ef7c0",
+      "GENERATION_KWARGS": "3836484f03a59ac515b55f67e991b5f8edbf7ee9b4315a1a6b88d760eeeaa939",
+      "test_prompts": "7de79aee4168cfeae6aaae6982d00da2f501d47b466ca17dfe8f14d8d039ae37",
+      "SCORING_POLICY": "ea6449730895ce27ef984ed79df5c6ab0eeac18b6afd456d0b8470dc8e7ee068"
+    }
+  },
+  {
+    "notebook": "notebooks/table guided rag.ipynb",
+    "source_upload": "table guidance ncreaed token budget",
+    "source_upload_sha256": "fea85040a9b89b8a6286720e0e4ecd8b4559ea6999f0e87326160f02ef8efa58",
+    "release_sha256": "67e3af18d32095d9f8b23c61862c7b4beb686796f2ef51922d9e58d67cdd52b1",
+    "source_code_cell_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11
+    ],
+    "generation_max_tokens": 2048,
+    "prompts_and_rubrics_unchanged": true,
+    "protected_value_sha256": {
+      "FIRST_PASS_TEMPLATE": "34da0272366f84c9539063c408c74eca22396a7ad266e15bd32bbcf315bf4a9f",
+      "COT_TEMPLATE": "d56c50aef871a8867b99ba2f2b30f502e8369463f2ae165ccc7c8e612c5daee3",
+      "GENDER_RUBRIC": "e89ec512397b5158dd8f76f5fd10024be3ac160c8f61bdc7f37e0cbeeeac034d",
+      "QUALITY_RUBRIC": "4fc2caf1d684a9dd1dd6b8e7baded81cb27ef1ccd8ec7b7aaa61c5cdef5ef7c0",
+      "GENERATION_KWARGS": "3836484f03a59ac515b55f67e991b5f8edbf7ee9b4315a1a6b88d760eeeaa939",
+      "test_prompts": "7de79aee4168cfeae6aaae6982d00da2f501d47b466ca17dfe8f14d8d039ae37",
+      "SCORING_POLICY": "ea6449730895ce27ef984ed79df5c6ab0eeac18b6afd456d0b8470dc8e7ee068"
+    }
+  },
+  {
+    "notebook": "notebooks/kg guided rag.ipynb",
+    "source_upload": "graph guidance",
+    "source_upload_sha256": "896ef53a0edf5fee6c83aad21e7cebb0f74a1a2783b194f1efd8d1dca6bc33a3",
+    "release_sha256": "ebe7a01d123512b7886ab08146675a6c5b521b4d0ba16eebc8202da04f9768db",
+    "source_code_cell_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "generation_max_tokens": 2048,
+    "prompts_and_rubrics_unchanged": true,
+    "protected_value_sha256": {
+      "FIRST_PASS_TEMPLATE": "34da0272366f84c9539063c408c74eca22396a7ad266e15bd32bbcf315bf4a9f",
+      "COT_TEMPLATE": "d56c50aef871a8867b99ba2f2b30f502e8369463f2ae165ccc7c8e612c5daee3",
+      "GENDER_RUBRIC": "e89ec512397b5158dd8f76f5fd10024be3ac160c8f61bdc7f37e0cbeeeac034d",
+      "QUALITY_RUBRIC": "4fc2caf1d684a9dd1dd6b8e7baded81cb27ef1ccd8ec7b7aaa61c5cdef5ef7c0",
+      "GENERATION_KWARGS": "3836484f03a59ac515b55f67e991b5f8edbf7ee9b4315a1a6b88d760eeeaa939",
+      "test_prompts": "7de79aee4168cfeae6aaae6982d00da2f501d47b466ca17dfe8f14d8d039ae37",
+      "SCORING_POLICY": "ea6449730895ce27ef984ed79df5c6ab0eeac18b6afd456d0b8470dc8e7ee068"
+    }
+  }
+]
