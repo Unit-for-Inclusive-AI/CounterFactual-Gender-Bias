@@ -1,0 +1,25 @@
+# API keys and local configuration
+.env
+.env.*
+secrets.json
+credentials.json
+
+# Python and notebook temporary files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Local runs and downloaded backups
+local_runs/
+instruction_refined_rag_*/
+table_guided_rag_*/
+kg_guided_rag_*/
+*_raw_outputs.zip
+*_results.zip
+faiss_index/
+
+# Operating-system temporary files
+.DS_Store
+Thumbs.db
